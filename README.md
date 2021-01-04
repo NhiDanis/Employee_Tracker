@@ -8,7 +8,9 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Screen Shots:
 
+<img width="1792" alt="Screen Shot 2021-01-03 at 7 39 01 PM" src="https://user-images.githubusercontent.com/68761490/103499029-88ab7480-4dfb-11eb-9c55-411c262da8bb.png">
 
+<img width="1792" alt="Screen Shot 2021-01-03 at 7 39 19 PM" src="https://user-images.githubusercontent.com/68761490/103499032-8a753800-4dfb-11eb-9b81-156e0750fa5f.png">
 
 ## BuiltWith:
 
@@ -19,19 +21,21 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Installation:
 
-`git clone `
+`git clone <url> `
 
  `npm install`
 
 
 ## Usage: 
 
- ` node server.js`
+ ` node app.js`
 
 
 ## Npm:
 
-*  
+* [MySQL](https://www.npmjs.com/package/mysql)
+* [Inquirer](https://www.npmjs.com/package/inquirer)
+* [Console.table](https://www.npmjs.com/package/console.table)
 
 
 
